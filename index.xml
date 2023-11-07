@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 CoderFrogger</copyright>
-    <lastBuildDate>Tue, 07 Nov 2023 12:17:56 +0200</lastBuildDate><atom:link href="https://CoderFrogger.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Nov 2023 12:48:38 +0200</lastBuildDate><atom:link href="https://CoderFrogger.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vegas</title>
+      <link>https://CoderFrogger.github.io/posts/vegas/</link>
+      <pubDate>Tue, 07 Nov 2023 12:48:38 +0200</pubDate>
+      
+      <guid>https://CoderFrogger.github.io/posts/vegas/</guid>
+      <description>k;double sin() ,cos();main(){float A= 0,B=0,i,j,z[1760];char b[ 1760];printf(&amp;#34;\x1b[2J&amp;#34;);for(;; ){memset(b,32,1760);memset(z,0,7040) ;for(j=0;6.</description>
+      
+    </item>
+    
     <item>
       <title>Puse Lapo</title>
       <link>https://CoderFrogger.github.io/posts/page/</link>
