@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://CoderFrogger.github.io/sitemap.xml
